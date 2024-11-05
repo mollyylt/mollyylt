@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @mollyylt
-- 😄 Pronouns: she/her
 
 <!---
 mollyylt/mollyylt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
